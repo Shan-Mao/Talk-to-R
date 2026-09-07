@@ -265,7 +265,7 @@ ID: Anthropic.claude-code
 发布者: Anthropic
 VS Marketplace 插件地址： [Claude code插件](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) 
 
-![](Pasted image 20260907170507.png)
+![](./Pasted image 20260907170507.png)
 
 3、ccswitch 按其他教程接入deepseek后先尝试 插件是否能够识别到api，一般来说到现在是可以使用的。
 如果依然没有成功识别可以在<font color="#ff0000">Claudecode插件的设置</font>里 添加
@@ -506,7 +506,7 @@ AI-R
 
 #### 第 7 步：将claude code 插件与MCP连接
 
-![](Pasted image 20260907183546.png)
+![](./Pasted image 20260907183546.png)
 
 在对话框下方在选择【/】，输入mcp
 选择
@@ -514,7 +514,7 @@ AI-R
 MCP serves
 ```
 
-![](Pasted image 20260907183711.png)
+![](./Pasted image 20260907183711.png)
 
 选择 
 ```
